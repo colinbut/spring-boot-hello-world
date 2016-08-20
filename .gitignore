@@ -8,12 +8,12 @@
 *.so
 *.project
 *.classpath
-*.iml
+.gradle/*
+build/*
 
 
 .settings/*
 .idea/*
-target/* 
 
 # Packages #
 ############
